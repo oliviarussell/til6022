@@ -14,4 +14,6 @@ Before you work on your on 'branch', you should always pull all new changes into
 
 To work in the Notebooks, you need to edit via GitHub Desktop (download this!); once you have opened GitHub Desktop; there is an option to open MS Visual Studio Code. Do this, then you can open the repository of the project (it will ask you to download this at some point) within MSVSC. You can now work in here. Once you are done with working on the code, you can create a merge request. 
 
-On the left in MSVCS there is a button for 'source control' (the branching paths icon). This shows you a timeline of your branch but also shows a commit button. 
+On the left in MSVCS there is a button for 'source control' (the branching paths icon). This shows you a timeline of your branch but also shows a commit button. Once you have committed in MSVCS, you have to go to GitHub desktop, where a button will appear to create a pull request. If you do this, a concept merge request will be opened in the browser on the Github site. Add an explanation of you work here.
+
+Another person has to merge your merge request after reviewing the code (they can also open ('check-out') your branch of course!). If there are any conflicts, they can be resolved via the site.
